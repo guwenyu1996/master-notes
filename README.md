@@ -1,8 +1,8 @@
 # study-in-TUD
 
-I am first year master student in TU Delft and study computer science.
+I am a first year master student in TU Delft and major in computer science.
 
-I found making notes help me grasp knowledge in classes. So In this repository I maintained summaries for courses I took.
+Belows are courses I took for the first year.
 
 | Course                                       | Q1 | Q2 | Q3 | Q4 |
 |----------------------------------------------|----|----|----|----|
@@ -13,3 +13,9 @@ I found making notes help me grasp knowledge in classes. So In this repository I
 | IN4086 Data Visualization                    |    | √  |    |    |
 | IN4150 Distributed Algorithms                |    | √  |    |    |
 | WM1110TU - English for Academic Purposes-2   | √  | √  |    |    |
+| Deep Learning   |   |   | √  | √  |
+| Business Lab   |   |   | √  | √  |
+| Information Retrieval   |   |   | √  |    |
+| MOT1435 Technology, Strategy and Entrepreneurship   |   |   | √  |    |
+| Smart Phone Sensing   |   |   |    | √  |
+| Cyber Data Analytics   |   |   |    | √  |
