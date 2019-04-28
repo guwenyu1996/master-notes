@@ -2,7 +2,7 @@
 
 I am a first year master student in TU Delft and major in computer science.
 
-Belows are courses I took for the first year.
+Below are courses I took in the first year.
 
 | Course                                       | Q1 | Q2 | Q3 | Q4 |
 |----------------------------------------------|----|----|----|----|
@@ -19,3 +19,4 @@ Belows are courses I took for the first year.
 | MOT1435 Technology, Strategy and Entrepreneurship   |   |   | √  |    |
 | Smart Phone Sensing   |   |   |    | √  |
 | Cyber Data Analytics   |   |   |    | √  |
+| Multimedia Search and Recommendation   |   |   |   | √  |
