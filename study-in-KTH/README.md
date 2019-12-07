@@ -1,6 +1,8 @@
 # study-in-KTH
-Here I will maintain the course notes taken in KTH.
+Lecture notes taken in KTH.
 
 |          Course          	| Q1 	| Q2 	|
 |:------------------------:	|:--:	|:--:	|
-| Data Intensive Computing 	|  √ 	|    	|
+| ID2221 Data Intensive Computing 	|  √ 	|    	|
+| II2209 Distributed Artificial Intelligence 	|   	|  √ 	|
+| Statistical method 	|   	|  √ 	|
